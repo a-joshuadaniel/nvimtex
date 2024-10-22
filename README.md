@@ -342,7 +342,7 @@ In the `Preset` menu, select custom and set the `Command` to `nvim` with the `Ar
 Close the preferences menu and open NeoVim with:
 
 ```
-nvim ~/.config/nvim/lua/user/vimtex.lua
+nvim ~/.config/nvim/lua/neotex/plugins/vimtex.lua
 ```
 
 Replace both 'okular' and 'zathura' with 'skim'.
